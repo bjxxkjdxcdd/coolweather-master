@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.android.support:support-fragment-24.2.1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/cd28ed9bb7db1d74c81ea23f85cf0c5c/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/cd28ed9bb7db1d74c81ea23f85cf0c5c/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/cd28ed9bb7db1d74c81ea23f85cf0c5c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/24.2.1/7fd06523b039f16207ae0277b040b5d15cc0e1ec/support-fragment-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
